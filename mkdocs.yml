@@ -1,0 +1,32 @@
+site_name: Learning Prompt
+nav:
+  - chatGPT:
+    - LLMs 基础:
+      - LLMs 是什么: chatGPT/tutorial-LLMs/what-is-LLMs.md
+      - 如何计算概率: chatGPT/tutorial-LLMs/how-to-calculate-probability.md
+      - 开发 LLMs 需要什么: chatGPT/tutorial-LLMs/develop-LLMs.md
+      - LLMs 的缺点:  chatGPT/tutorial-LLMs/LLMs-disadvantages.md
+    - prompt 基础:
+      - 简介: chatGPT/tutorial-basics/简介.md
+      - 基础用法: chatGPT/tutorial-basics/基础用法.md
+      - 基本原则与建议: "chatGPT/tutorial-basics/基本原则 & 建议.md"
+    - prompt 技巧:
+      - 技巧1 告诉模型能干什么: "chatGPT/tutorial-tips/技巧1：To Do and Not To Do.md"
+      - 技巧2 增加示例: "chatGPT/tutorial-tips/技巧2：增加示例.md"
+      - 技巧3：使用引导词，引导模型输出特定内容: "chatGPT/tutorial-tips/技巧3：使用引导词，引导模型输出特定内容.md"
+      - 技巧4：增加 Role（角色）或人物: "chatGPT/tutorial-tips/技巧4：增加 Role（角色）或人物.md"
+      - 技巧5：使用特殊符号指令和需要处理的文本分开: "chatGPT/tutorial-tips/技巧5：使用特殊符号指令和需要处理的文本分开.md"
+      - 技巧6：通过格式词阐述需要输出的格式: "chatGPT/tutorial-tips/技巧6：通过格式词阐述需要输出的格式.md"
+      - 技巧7：Zero-Shot Chain of Thought: "chatGPT/tutorial-tips/技巧7：Zero-Shot Chain of Thought.md"
+      - 技巧8：Few-Shot Chain of Thought: "chatGPT/tutorial-tips/技巧8：Few-Shot Chain of Thought.md"
+      - 技巧9：其他.md: "chatGPT/tutorial-tips/技巧9：其他.md"
+    - prompt 进阶:
+      - prompt 框架: "chatGPT/tutorial-extras/ChatGPT Prompt Framework.md"
+      - Zero-Shot Prompting: "chatGPT/tutorial-extras/Zero-Shot Prompts.md"
+      - Few-Shot Prompting: "chatGPT/tutorial-extras/Few-Shot Prompting.md"
+      - Self-Consistency 方法: "chatGPT/tutorial-extras/Self-Consistency.md"
+      - 利用 PAL Models: "chatGPT/tutorial-extras/PAL Models.md"
+      - 使用 OpenAI Playground: "chatGPT/tutorial-extras/OpenAI Playground 使用方法.md"
+      - 搭建基于知识库内容的机器人: "chatGPT/tutorial-extras/Build-AI-bots-based-on-knowledge-base-content.md"
+
+  - midjourney: midjourney-learning-path.md
